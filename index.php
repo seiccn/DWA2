@@ -207,11 +207,11 @@ if (isset($_POST['words'])) {
                 <div class="col-lg-12 col-sm-12">
                     <div class="clearfix"></div>
                   <h2 class="boxheading">XKCD Style Calculator</h2>
-                  <p><h3></h3>What is the title of your application?</h3>
+                  <p><h3>What is the title of your application?</h3>
 
 The title of my application is XKCD Style Password generator.
 
-<h3>What is the main purpose of goal of your application?</h3>
+<h3>What is the main purpose or goal of your application?</h3>
 
 The goal of the calculator is to generate passwords using a list in a database. You may specify the number of words and whether numbers, special chars and uppercase chars shall be used.
 
